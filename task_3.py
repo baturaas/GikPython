@@ -1,6 +1,3 @@
-# Узнайте у пользователя число n. Найдите сумму чисел n + nn + nnn. Например, пользователь ввёл число 3. Считаем 3 + 33 + 333 = 369.
-
-
 a = int(input("Enter an integer between 0 and 9: "))
 print(f"You entered a number: {a}")
 a = str(a)
